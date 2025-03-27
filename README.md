@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi, im Arturo and I just took a course about Git and Github so my knowledge is limited but I hope that we get to use Github in future classes.
+he/him
